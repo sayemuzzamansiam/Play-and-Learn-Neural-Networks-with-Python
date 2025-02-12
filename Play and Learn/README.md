@@ -1,4 +1,6 @@
 Run the code in you Colab or Kaggle Notebook and Play!
+# Version 2:
+In this version, you will have better visualization from the previous one. 
 
 # Version 3:
 In this version, user will have more control over the game flow.
