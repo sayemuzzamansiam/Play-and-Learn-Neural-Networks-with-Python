@@ -10,3 +10,10 @@ Your game starts at the input neuron. Your goal is to travel layer‐by‐layer 
 
 After each round, the game displays the path you took, the weight multiplications along the way, and a short explanation of how weights and activations work in a neural network.
 I will be adding more and more Neural netwrok concepts in the future updates!
+
+
+# Visualization:
+## First Step and Last Step
+![Neural Network](https://github.com/sayemuzzamansiam/Play-and-Learn-Neural-Networks-with-Python/blob/main/Images/step1.png)
+
+![Neural Network](https://github.com/sayemuzzamansiam/Play-and-Learn-Neural-Networks-with-Python/blob/main/Images/step5.png)
